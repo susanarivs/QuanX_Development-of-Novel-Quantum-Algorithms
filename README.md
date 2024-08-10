@@ -7,6 +7,6 @@ Objective:
 ![image](https://github.com/user-attachments/assets/3ea7d758-6476-44ba-9681-e7a74ed5dd3c)
 
 Project collaborators
-Shyam sunder sellammal murugesan
-Aadhithya Sankaranarayanan
-Susana Rivera Vergara
+-Shyam sunder sellammal murugesan
+-Aadhithya Sankaranarayanan
+-Susana Rivera Vergara
